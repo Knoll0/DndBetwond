@@ -12,8 +12,8 @@ public class Character {
     Race race;
     ArrayList<Weapon> weapons;
 
-    Character(){
-        
+    Character(String name, String alignment){
+
     }
 
     
